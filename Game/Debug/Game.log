@@ -1,0 +1,14 @@
+﻿  GameMain.cpp
+C:\PG\Game\SceneManager.h(20,17): error C3668: 'SceneManager::Update': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+C:\PG\Game\SceneManager.h(23,7): error C3668: 'SceneManager::Draw': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+  GameMainScene.cpp
+C:\PG\Game\GameMainScene.cpp(1,10): fatal error C1083: include ファイルを開けません。'GameMainScean.h':No such file or directory
+  KeyManager.cpp
+  SceanManager.cpp
+C:\PG\Game\SceneManager.h(20,17): error C3668: 'SceneManager::Update': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+C:\PG\Game\SceneManager.h(23,7): error C3668: 'SceneManager::Draw': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+  Title.cpp
+C:\PG\Game\SceneManager.h(20,17): error C3668: 'SceneManager::Update': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+C:\PG\Game\SceneManager.h(23,7): error C3668: 'SceneManager::Draw': オーバーライド指定子 'override' を伴うメソッドは、基底クラス メソッドをオーバーライドしませんでした
+C:\PG\Game\Title.cpp(19,15): error C2061: 構文エラー: 識別子 'GameMainScene'
+  コードを生成中...
